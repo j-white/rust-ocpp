@@ -17,10 +17,10 @@ exclude = ["docs/", "src/tests"]
 all-features = true
 
 [features]
-default = ["v2_0_1"]
+default = ["v2_1"]
 v1_6 = []
 v2_0_1 = []
-
+v2_1 = []
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
