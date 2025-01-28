@@ -3,4 +3,5 @@ pub enum LogEnumType {
     #[default]
     DiagnosticsLog,
     SecurityLog,
+    DataCollectorLog
 }
